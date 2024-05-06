@@ -1,0 +1,15 @@
+## Title: BuffOverlay
+## Interface: 90005
+## Notes: Overlays chosen buffs on top of the raidframe.
+## Author: clicket
+## Version: v10.0
+## X-Curse-Project-ID: 296067
+## X-WoWI-ID: 24683
+## SavedVariables: BuffOverlayDB
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+BuffOverlay.lua
+Options.lua
